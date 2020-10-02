@@ -1,5 +1,5 @@
 @echo off
-
+#hello
 pause
 color 0a
 mode 1000
